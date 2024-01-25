@@ -30,6 +30,9 @@
 
     @media screen and (min-width: $bp-tablet) {
       display: block;
+      width: 393px;
+      height: 466px;
+      flex-shrink: 0;
     }
   }
 }

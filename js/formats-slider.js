@@ -16,7 +16,7 @@ const swiper = new Swiper('.swiper-container', {
     balletActiveClass:'pagination__button--active',
   },
   navigation: {
-    nextEl: '.swiper-button.next',
-    prevEl: '.swiper-button.prev',
+    nextEl: '.carousel-button.next',
+    prevEl: '.carousel-button.prev',
   },
   });
